@@ -4,7 +4,7 @@
 
 ## Glad to see you here
 
-My name is Syeda Shumail Fatima and I am a Bioinformatics graduate passionate about data science and web development. Highly-capable leader, having led multiple senior class projects to completion. Proficient in a range of modern technologies including Python, Node.js and C#.
+My name is Syeda Shumail Fatima, a Bioinformatics graduate who enjoys turning biological data into clear, reproducible answers with **Python and R** — genomics, sequence analysis, and data analysis. I also build web and desktop apps with Node.js and C#.
 
 
 <!-- Icons -->
@@ -18,8 +18,11 @@ My name is Syeda Shumail Fatima and I am a Bioinformatics graduate passionate ab
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=flat-plastic&logo=github&logoColor=white)](https://github.com/1shumail)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumailfatima)
-[![1shumail.github.io](https://img.shields.io/badge/1shumail.git%20-%20light%20blue
-)](https://github.com/1shumail)
+
+## 🔬 Currently working on
+
+- A reproducible **RNA-seq** differential-expression pipeline (FastQC → DESeq2)
+- **[CpGMAP](https://github.com/1shumail/CpGMAP)** — predicting DNA methylation across 7 human tissues (Python + R, tested)
 
 ## 💻 Things I code with
 
