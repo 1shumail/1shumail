@@ -22,7 +22,7 @@ I'm a Bioinformatics graduate. I mostly work in **Python and R** on genomics, se
 ## 🔬 Currently working on
 
 - A reproducible **RNA-seq** differential-expression pipeline (FastQC → DESeq2)
-- **[CpGMAP](https://github.com/1shumail/CpGMAP)**: predicting DNA methylation across 7 human tissues (Python + R, tested)
+- **[CpGMAP](https://github.com/1shumail/CpGMAP)**: predicting DNA methylation across 7 human tissues with Python and R
 
 ## 💻 Things I code with
 
